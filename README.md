@@ -1,5 +1,6 @@
 # Indian-Startup-Funding-Analysis
  
+
 # 📊 Startup Funding Analysis
 
 ## 📌 Overview
@@ -96,6 +97,3 @@ python main.py
 * Enable filtering by year, sector, or city.
 * Predict future funding trends using machine learning models.
 
----
-
-Do you want me to **also include sample output images** of the charts in the README so it looks more professional? That would make it easier for people to quickly understand the visuals.
